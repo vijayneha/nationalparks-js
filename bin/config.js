@@ -13,7 +13,7 @@ var autoconfig  = function (config_overrides){
   })
 
   var ws_info = {
-    id: "nationalparks-js",
+    id: "Vijay_nationalparks-js",
     displayName: "National Parks (JS)",
     type: "cluster",
     center: {'latitude': '47.039304', 'longitude': '14.505178'},
